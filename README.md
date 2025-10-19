@@ -5,6 +5,9 @@
 完全推倒重写大部分代码
 
 ## Main RoadMap
+- [ ] 越过 NAPI 直接调用 NTCORE 验证
+- [ ] Proxy Wrapper.node 原理验证
+- [ ] 运行时自动化Scan工具实现
 - [ ] NapCat 包管理 迁移验证
 - [ ] 二进制内容剥离仓库
 - [x] Frida Hook Addon 功能验证
