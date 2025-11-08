@@ -5,16 +5,16 @@
 完全推倒重写大部分代码
 
 ## Main RoadMap
-- [ ] 越过 NAPI 直接调用 NTCORE 验证
+- [x] 越过 NAPI 直接调用 NTCORE 验证
 - [ ] Proxy Wrapper.node 原理验证
-- [ ] 运行时自动化Scan工具实现
+- [x] 运行时自动化Scan工具实现
 - [ ] NapCat 包管理 迁移验证
 - [ ] 二进制内容剥离仓库
 - [x] Frida Hook Addon 功能验证
 - [ ] Remote NAPI 调用功能验证
-- [ ] SendPacket/RecvPacket 功能重构验证
-- [ ] NAPI 启动器功能验证
-- [ ] HeadLess 启动器功能验证
+- [x] SendPacket/RecvPacket 功能重构验证
+- [x] NAPI 启动器功能验证
+- [x] HeadLess 启动器功能验证
 - [ ] 字节码Injector功能验证
 - [ ] 软重启NapCat功能测试(Proxy)
 - [ ] 支持协议适配器 按需分发
